@@ -8,7 +8,7 @@
   "packages": [
     {
       "id": "widget.ottplayer.tv",
-      "title": "OttPlsyer",
+      "title": "OttPlayer",
       "iconUri": "https://raw.githubusercontent.com/drakulaboy/ottplayer-webos/main/assets/largeIcon.png",
       "manifest": {
         "id": "widget.ottplayer.tv",
