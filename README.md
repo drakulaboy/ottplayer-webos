@@ -8,7 +8,7 @@ OTTPlayer App for WebOS in Homebrew Channel
 
 ## Installation
 
-- Use [Device Manager app](https://github.com/webosbrew/dev-manager-desktop) - see [Releases](https://github.com/DjVreditel/tiktok-webos/releases) for a
+- Use [Device Manager app](https://github.com/webosbrew/dev-manager-desktop) - see assets for a
   prebuilt `.ipk` binary file
 - Use [webOS TV CLI tools](https://webostv.developer.lge.com/develop/tools/cli-installation) -
   `ares-install tiktok...ipk` (for webOS CLI tools configuration see below)
@@ -23,7 +23,7 @@ OTTPlayer App for WebOS in Homebrew Channel
   Original link
 
   ```
-  https://raw.githubusercontent.com/DjVreditel/tiktok-webos/main/HomebrewChannel/tiktok.txt
+  https://raw.githubusercontent.com/drakulaboy/ottplayer-webos/main/HomebrewChannel/ottplayer.txt
   ```
 
 ## Special Thanks
