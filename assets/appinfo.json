@@ -1,10 +1,10 @@
 {
-  "id": "tiktok.djvreditel.v1",
-  "version": "1.1.0",
-  "vendor": "Dj_Vreditel",
+  "id": "widget.ottplayer.tv",
+  "version": "0.0.1",
+  "vendor": "OttPlayer",
   "type": "web",
   "main": "index.html",
-  "title": "TikTok",
+  "title": "OttPlayer",
   "icon": "icon.png",
   "largeIcon": "largeIcon.png",
   "iconColor": "#000000",
@@ -22,7 +22,7 @@
   "trustLevel": "netcast",
   "privilegedJail": true,
   "supportQuickStart": true,
-  "dialAppName": "TikTok",
+  "dialAppName": "OttPlayer",
   "handlesRelaunch": false,
   "disableBackHistoryAPI": true,
   "supportGIP": true
