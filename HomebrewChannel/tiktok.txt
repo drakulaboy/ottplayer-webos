@@ -7,24 +7,24 @@
   },
   "packages": [
     {
-      "id": "tiktok.djvreditel.v1",
-      "title": "TikTok",
+      "id": "widget.ottplayer.tv",
+      "title": "OttPlsyer",
       "iconUri": "https://raw.githubusercontent.com/DjVreditel/tiktok-webos/main/assets/largeIcon.png",
       "manifest": {
-        "id": "tiktok.djvreditel.v1",
-        "version": "1.1.0",
+        "id": "widget.ottplayer.tv",
+        "version": "0.0.1",
         "type": "web",
-        "title": "TikTok",
-        "iconUri": "https://raw.githubusercontent.com/DjVreditel/tiktok-webos/main/assets/largeIcon.png",
-        "sourceUrl": "https://github.com/DjVreditel/tiktok-webos",
+        "title": "OttPlayer",
+        "iconUri": "https://raw.githubusercontent.com/drakulaboy/ottplayer-webos/refs/heads/main/assets/largeIcon.png",
+        "sourceUrl": "https://github.com/drakulaboy/ottplayer-webos",
         "rootRequired": false,
-        "ipkUrl": "https://drive.usercontent.google.com/uc?id=10lgcgX8Tp58hK2tAMD_MTyj4GWTXAKre&export=download",
+        "ipkUrl": "https://github.com/drakulaboy/ottplayer-webos/raw/refs/heads/main/assets/widget.ottplayer.tv_0.0.1_all.ipk",
         "ipkHash": {
-          "sha256": "acda05efc34d6c252d83057db10da0d53c171822874612a1a4a8fcba66d404f4"
+          "sha256": "b1f1a020eede942909aeb4b0c8878e57aca3aa0c6d833b6afb9a20e118b8a03f"
         }
       },
-      "shortDescription": "Unofficial TikTok App for WebOS with extended features",
-      "fullDescriptionUrl": "https://raw.githubusercontent.com/DjVreditel/tiktok-webos/main/HomebrewChannel/index.html"
+      "shortDescription": "OttPlayer widget App for WebOS",
+      "fullDescriptionUrl": "https://raw.githubusercontent.com/drakulaboy/ottplayer-webos/main/HomebrewChannel/index.html"
     }
   ]
 }
