@@ -17,7 +17,7 @@ OTTPlayer App for WebOS in Homebrew Channel
   Short link — if it isn't available, use the full link (you can also use URL shortener tools so you don't have to enter a long TV link)
 
   ```
-  [https://tinyurl.com/lg-tiktok](https://tinyurl.com/repoottplayer)
+  [https://tinyurl.com/repoottplayer](https://tinyurl.com/repoottplayer)
   ```
 
   Original link
