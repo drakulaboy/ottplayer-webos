@@ -9,7 +9,7 @@
     {
       "id": "widget.ottplayer.tv",
       "title": "OttPlsyer",
-      "iconUri": "https://raw.githubusercontent.com/DjVreditel/tiktok-webos/main/assets/largeIcon.png",
+      "iconUri": "https://raw.githubusercontent.com/drakulaboy/ottplayer-webos/main/assets/largeIcon.png",
       "manifest": {
         "id": "widget.ottplayer.tv",
         "version": "0.0.1",
